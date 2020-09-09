@@ -1,10 +1,9 @@
-GRIP-Internship
+Data Science Intern ( Graduate Rotational Internship Program) Tasks at The Sparks Foundation
 
 
-TASK 2  
-       Supervised machine learning - Linear regression
-       
-       Task is to predict the percentage of marks that a student is expected to score based on the number of hours they are studying.
-       
-       
-       The data set contains two labels Hours and Scores.
+Task 2 - To Explore Supervised Machine Learning
+In this regression task we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied. This is a simple linear regression task as it involves just two variables.
+
+Data can be found at http://bit.ly/w-data
+
+What will be predicted score if a student study for 9.25 hrs in a day ?
